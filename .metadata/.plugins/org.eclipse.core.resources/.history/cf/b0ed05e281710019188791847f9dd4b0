@@ -1,0 +1,16 @@
+package com.imooc.queue;
+
+public class Queue {
+	private int n;
+
+	public  synchronized int getN() {
+		System.out.println("消费:"+n);
+		return n;
+	}
+
+	public  synchronized void setN(int n) {
+		System.out.println("生产:"+n);
+		this.n = n;
+	}
+	
+}

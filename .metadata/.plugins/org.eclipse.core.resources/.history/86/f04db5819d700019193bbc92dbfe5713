@@ -1,0 +1,14 @@
+package com.imooc.thread;
+
+class MyThread extends Thread {
+	public void run() {
+		System.out.println("该线程正在执行!");
+	}
+}
+
+public class ThreadTest {
+	public static void main(String[] args) {
+		MyThread one =new MyThread();
+		one.start();//启动线程,一个线程只能启动一次
+	}
+}

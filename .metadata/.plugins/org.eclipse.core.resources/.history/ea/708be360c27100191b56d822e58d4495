@@ -1,0 +1,14 @@
+package com.imooc.file;
+
+import java.io.File;
+
+public class FileDemo {
+	public static void main(String[] args) {
+		//创建File对象
+		File file1 = new File("Users//ansmacbookpro//Desktop//io//score.txt");
+		//判断是文件还是目录
+		System.out.println("是否是目录:"+file1.isDirectory());
+		System.out.println("是否是文件:"+file1.isFile());
+		
+	}
+}

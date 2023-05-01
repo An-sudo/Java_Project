@@ -1,0 +1,11 @@
+package com.imooc.test16;
+
+public class Dog extends Animal{
+
+	@Override
+	public void play() {
+		System.out.print("小狗"+getName()+"在做游戏!");
+		
+	}
+
+}

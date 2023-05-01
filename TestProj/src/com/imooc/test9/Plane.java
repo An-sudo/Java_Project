@@ -1,0 +1,11 @@
+package com.imooc.test9;
+
+//创建类Plane并实现接口IFly
+public class  Plane implements IFly{
+  //重写fly方法
+   public void fly() {
+	   System.out.println("飞机在天上飞");
+   }
+
+
+}

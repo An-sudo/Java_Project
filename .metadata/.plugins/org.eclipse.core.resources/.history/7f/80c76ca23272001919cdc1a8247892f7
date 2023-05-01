@@ -1,0 +1,16 @@
+package com.imooc.file;
+
+import java.io.FileInputStream;
+import java.io.IOException;
+
+public class FileInputDemo1 {
+	public static void main(String[] args) {
+		//创建一个FileInputStream对象
+		
+		try{
+			FileInputStream fis= FileInputStream("imooc.txt");
+		}catch(IOException e){
+			e.printStackTrace();
+		}
+	}
+}

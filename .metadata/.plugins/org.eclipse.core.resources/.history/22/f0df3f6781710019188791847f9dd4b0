@@ -1,0 +1,16 @@
+package com.imooc.queue;
+
+public class Queue {
+	private int n;
+
+	public int getN() {
+		System.out.println("获取:"+n);
+		return n;
+	}
+
+	public void setN(int n) {
+		System.out.println("设置:"+n);
+		this.n = n;
+	}
+	
+}

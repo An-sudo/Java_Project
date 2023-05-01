@@ -1,0 +1,13 @@
+package com.imooc.sort;
+
+import java.util.List;
+import java.util.ArrayList;
+import java.util.Collections;
+
+public class StringSort {
+	public static void main(String[] args) {
+		
+	}
+	// 对存放在list中的字符串进行排序
+
+} 

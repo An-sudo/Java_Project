@@ -1,0 +1,13 @@
+package com.imooc.generic;
+
+import java.util.List;
+import java.util.ArrayList;
+public class GoodsTest {
+	public static void main(String[] args) {
+		//定义book相关的List
+		List<Book>books=new ArrayList<Book>();
+		books.add(new book());
+		books.add(new book());
+		
+	}
+}

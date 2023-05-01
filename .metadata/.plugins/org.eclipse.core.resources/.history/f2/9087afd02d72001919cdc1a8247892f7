@@ -1,0 +1,16 @@
+package com.imooc.path;
+
+import java.io.File;
+import java.io.IOException;
+public class PathDemo {
+	public static void main(String[] args) {
+		File f= new File("thread.txt");
+		try{
+			f.createNewFile();
+		}catch(IOException e) {
+			e.printStackTrace();
+		}
+		System.out.println(f.exists());
+		
+	}
+}

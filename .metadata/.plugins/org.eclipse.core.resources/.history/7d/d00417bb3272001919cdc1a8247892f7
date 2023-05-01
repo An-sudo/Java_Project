@@ -1,0 +1,23 @@
+package com.imooc.file;
+
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.IOException;
+
+public class FileInputDemo1 {
+	public static void main(String[] args) {
+		// 创建一个FileInputStream对象
+
+		try {
+			FileInputStream fis = new FileInputStream("imooc.txt");
+			int n=fis.read();
+			System.out.println(n);
+		} catch (FileNotFoundException e) {	//FileNotFoundException是IOException的子类,需要放在父类的前面
+			e.printStackTrace();
+		}catch(IOException e) {
+			e.printStackTrace();
+		}
+		
+
+	}
+}

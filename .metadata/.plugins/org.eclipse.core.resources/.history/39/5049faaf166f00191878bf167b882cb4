@@ -1,0 +1,35 @@
+package com.imooc.sort;
+
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
+public class Test {
+    public static void main(String[] args) {
+	    //给list添加元素
+    List<String> list= new ArrayList<String>();
+       //输出排序前list中的内容
+       list.add("orange");
+       list.add("tomato");
+       list.add("apple");
+       list.add("litchi");
+       list.add("banana");
+       System.out.println("排序前：");
+       for(String s:list){ 
+           System.out.print(s+"  ");
+       }
+       System.out.println();
+       //对list元素进行排序
+       Collections.sort(list);
+       System.out.println("排序后：");
+       for(String s:list){
+           System.out.print(s+"  ");
+       }
+       
+ 
+       //输出排序后list中的内容
+       
+       
+
+
+	}
+}

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.Imooc.method.Test1"/>
+<fullyQualifiedTypeName name="com.imooc.animal.CatTest"/>
+<fullyQualifiedTypeName name="com.imooc.mechanics.Cat"/>
+<fullyQualifiedTypeName name="com.imooc.singleton.SingletonTwo"/>
+<fullyQualifiedTypeName name="com.imooc.test6.Emperor"/>
+<fullyQualifiedTypeName name="com.immoc.animal.Animal"/>
+<fullyQualifiedTypeName name="com.imooc.animal.Cat"/>
+<fullyQualifiedTypeName name="com.imooc.animal.Master"/>
+<fullyQualifiedTypeName name="com.imooc.animal.Dog"/>
+<fullyQualifiedTypeName name="com.imooc.animal.Animal"/>
+<fullyQualifiedTypeName name="com.imooc.tel.FourthPhone"/>
+<fullyQualifiedTypeName name="com.imooc.tel.IPhoto"/>
+<fullyQualifiedTypeName name="com.imooc.tel.Camera"/>
+<fullyQualifiedTypeName name="com.imooc.tel.INet"/>
+<fullyQualifiedTypeName name="com.imooc.tel.SmartWatch"/>
+<fullyQualifiedTypeName name="com.imooc.people.Person.Heart"/>
+<fullyQualifiedTypeName name="com.imooc.test10.BallTest.Inner_m"/>
+<fullyQualifiedTypeName name="com.imooc.test10.BallTest"/>
+<fullyQualifiedTypeName name="java.util.InputMismatchException"/>
+<fullyQualifiedTypeName name="java.lang.Exception"/>
+<fullyQualifiedTypeName name="com.imooc.test.HotelAgeException"/>
+<fullyQualifiedTypeName name="java.util.HashSet"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="java.security.KeyStore.Entry"/>
+<fullyQualifiedTypeName name="java.util.Iterator"/>
+<fullyQualifiedTypeName name="java.util.Set"/>
+<fullyQualifiedTypeName name="java.util.Map.Entry"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="java.util.Collection"/>
+<fullyQualifiedTypeName name="java.util.Comparator"/>
+<fullyQualifiedTypeName name="java.util.Collections"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.lang.InterruptedException"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
+<fullyQualifiedTypeName name="java.io.FileOutputStream"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="java.io.BufferedOutputStream"/>
+<fullyQualifiedTypeName name="java.io.BufferedInputStream"/>
+<fullyQualifiedTypeName name="java.io.FileInputStream"/>
+</qualifiedTypeNameHistroy>

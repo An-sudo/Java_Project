@@ -1,0 +1,8 @@
+package com.imooc.file;
+
+public class FileOutputDemo2 {
+	public static void main(String[] args) {
+		//文件拷贝
+		
+	}
+}

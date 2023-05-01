@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.imooc.model.Sbuject.java&apos; to &apos;Subject.java&apos;&#x0A;- Original project: &apos;SchoolProj&apos;&#x0A;- Original element: &apos;com.imooc.model.Sbuject.java&apos;&#x0A;- Renamed element: &apos;com.imooc.model.Subject.java&apos;" description="Rename compilation unit &apos;Sbuject.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;com.imooc.model{Sbuject.java" name="Subject.java" references="false" stamp="1555045316251" version="1.0"/>
+</session>

@@ -1,0 +1,30 @@
+package com.imooc.sort;
+
+import java.util.List;
+import java.util.ArrayList;
+import java.util.Collections;
+
+public class CatTest {
+	public static void main(String[] args) {
+		// 按名字升序排序
+		Cat huahua = new Cat("花花", 5, "英国短毛猫");
+		Cat fanfna = new Cat("凡凡", 2, "中华田园猫");
+		Cat maomao = new Cat("毛毛", 3, "中华田园猫");
+
+		List<Cat> list = new ArrayList<Cat>();
+		list.add(huahua);
+		list.add(fanfna);
+		list.add(maomao);
+		// 排序前
+		System.out.println("按名字排序前：");
+		for (Cat cat : list) {
+			System.out.println(cat);
+		}
+		// 按名字进行升序排序
+		Collections.sort(list, new NameComparator());
+		System.out.println("按名字排序后：");
+		for (Cat cat : list) {
+			System.out.println(cat);
+		}
+	}
+}

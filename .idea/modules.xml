@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AnimalProj/AnimalProj.iml" filepath="$PROJECT_DIR$/AnimalProj/AnimalProj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CircusProj/CircusProj.iml" filepath="$PROJECT_DIR$/CircusProj/CircusProj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExceptionProj/ExceptionProj.iml" filepath="$PROJECT_DIR$/ExceptionProj/ExceptionProj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GenericProj/GenericProj.iml" filepath="$PROJECT_DIR$/GenericProj/GenericProj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IOProj/IOProj.iml" filepath="$PROJECT_DIR$/IOProj/IOProj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ImoocProj/ImoocProj.iml" filepath="$PROJECT_DIR$/ImoocProj/ImoocProj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ObjectProj/ObjectProj.iml" filepath="$PROJECT_DIR$/ObjectProj/ObjectProj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OfficeProj/OfficeProj.iml" filepath="$PROJECT_DIR$/OfficeProj/OfficeProj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PolyProj/PolyProj.iml" filepath="$PROJECT_DIR$/PolyProj/PolyProj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SchoolProj/SchoolProj.iml" filepath="$PROJECT_DIR$/SchoolProj/SchoolProj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SetProj/SetProj.iml" filepath="$PROJECT_DIR$/SetProj/SetProj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SingletonProj/SingletonProj.iml" filepath="$PROJECT_DIR$/SingletonProj/SingletonProj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringProj/StringProj.iml" filepath="$PROJECT_DIR$/StringProj/StringProj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestProj/TestProj.iml" filepath="$PROJECT_DIR$/TestProj/TestProj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadProj/ThreadProj.iml" filepath="$PROJECT_DIR$/ThreadProj/ThreadProj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WrappProj/WrappProj.iml" filepath="$PROJECT_DIR$/WrappProj/WrappProj.iml" />
+    </modules>
+  </component>
+</project>

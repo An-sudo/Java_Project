@@ -1,0 +1,7 @@
+package com.imooc.file;
+public class File {
+	public static void main(String[] args) {
+		File file= new File("/User/ansmacbookpro/desktop/io.score.txt");
+		
+	}
+}

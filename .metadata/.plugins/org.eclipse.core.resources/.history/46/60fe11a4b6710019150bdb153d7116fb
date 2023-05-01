@@ -1,0 +1,11 @@
+package com.imooc.file;
+
+public class File {
+	public static void main(String[] args) {
+		String path;
+		path="/Users/ansmacbookpro/desktop/io";
+		File file1 = new File(path);
+		
+		
+	}
+}

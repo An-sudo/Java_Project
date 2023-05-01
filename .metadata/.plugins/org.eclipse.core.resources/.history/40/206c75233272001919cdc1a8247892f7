@@ -1,0 +1,7 @@
+package com.imooc.file;
+
+public class FileInputDemo1 {
+	public static void main(String[] args) {
+		
+	}
+}

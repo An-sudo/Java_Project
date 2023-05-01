@@ -1,0 +1,10 @@
+package com.imooc.bank;
+
+public class Bank {
+	private String balance;
+	private int account;
+	
+	public Bank() {
+		
+	}
+}

@@ -1,0 +1,9 @@
+import java.util.Arrays;
+
+public class test {
+	public static void main(String[] args) {
+		int[] arr= {12,65,34,32,23};
+		System.out.println(Arrays.sort(arr));
+		
+	}
+}

@@ -19,12 +19,5 @@ public class Test {
 		two.sleep();
 		System.out.println("====================");
 		two.eat("凡凡");
-//		System.out.println("====================");
-//		Animal three =new Animal();
-//		three.run();
-
-		double a = 1.25;
-		double b = 1.5;
-		System.out.println(a/b);
 	}
 }
